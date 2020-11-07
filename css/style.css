@@ -950,7 +950,7 @@ header .right_bt .btn {
 .logo {
 	float: left;
 	margin: 20px  20px;
-	position: relative;
+	position: auto;
 	left: 0;
 }
 
