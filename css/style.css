@@ -3258,7 +3258,7 @@ footer h4 {
 
 .social_icon ul {
 	list-style: none;
-	float: left;
+	float: right;
 }
 
 .social_icon ul li {
@@ -3268,7 +3268,7 @@ footer h4 {
 }
 
 .social_icon {
-	float: left;
+	float: right;
 	margin: 2px 0 0 0;
 }
 
@@ -3391,7 +3391,7 @@ footer ul.social_icons li {
 }
 
 footer ul.social_icons li a {
-	float: left;
+	float: right;
 	margin-right: 15px;
 	text-align: center;
 	font-size: 18px;
@@ -3400,7 +3400,7 @@ footer ul.social_icons li a {
 }
 
 footer ul.social_icons {
-	float: left;
+	float: right;
 	margin-top: 10px;
 }
 
