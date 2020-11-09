@@ -4799,4 +4799,8 @@ footer ul.social_icons {
 .product_detail_side.detail_style1 {
 	margin-top: 35px;
 }
-
+div iframe {align: left;
+    	    width: 100;
+	    z-index: auto;
+	    margin-left: 20px;
+	    margin-top:80PX;}
