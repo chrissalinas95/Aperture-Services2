@@ -3268,7 +3268,7 @@ footer h4 {
 }
 
 .social_icon {
-	float: left;
+	float: right;
 	margin: 2px 0 0 0;
 }
 
@@ -3287,7 +3287,7 @@ footer h4 {
 }
 
 .bottom_menu li {
-	float: left;
+	float: right;
 	margin: 0 20px 0 0;
 }
 
@@ -3400,13 +3400,13 @@ footer ul.social_icons li a {
 }
 
 footer ul.social_icons {
-	float: left;
+	float: right;
 	margin-top: 10px;
 }
 
 .footer_mail-section {
 	margin-top: 10px;
-	float: left;
+	float: right;
 }
 
 .footer_mail-section .field input {
@@ -4800,7 +4800,5 @@ footer ul.social_icons {
 	margin-top: 35px;
 }
 div iframe {float: left;
-    	    width: 33%;
-	    height: 33%;
 	    z-index: auto;
 	    margin-top:80PX}
