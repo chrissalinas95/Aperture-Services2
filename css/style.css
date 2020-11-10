@@ -3237,7 +3237,7 @@ footer h4 {
 }
 
 .footer_menu_ul {
-	float: right;
+	float: left;
 	width: 33.33%;
 	font-size: 14px;
 }
@@ -3400,7 +3400,7 @@ footer ul.social_icons li a {
 }
 
 footer ul.social_icons {
-	float: right;
+	float: left;
 	margin-top: 10px;
 }
 
