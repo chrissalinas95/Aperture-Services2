@@ -3237,7 +3237,7 @@ footer h4 {
 }
 
 .footer_menu_ul {
-	float: left;
+	float: right;
 	width: 33.33%;
 	font-size: 14px;
 }
@@ -4799,7 +4799,7 @@ footer ul.social_icons {
 .product_detail_side.detail_style1 {
 	margin-top: 35px;
 }
-div iframe {align: left;
+div iframe {float: left;
     	    width: 500px;
 	    height: 500px;
 	    z-index: auto;
