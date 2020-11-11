@@ -3872,7 +3872,7 @@ footer ul.social_icons {
 }
 
 .social-icon {
-	float: right;
+	float: left;
 	list-style: none;
 	margin: 0;
 }
