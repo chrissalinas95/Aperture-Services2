@@ -3558,7 +3558,7 @@ footer ul.social_icons {
 .contact_us_section {
 	padding: 40px 50px;
 	margin-top: -75px;
-	float: left;
+	float: right;
 	width: 100%;
 }
 
@@ -3602,7 +3602,7 @@ footer ul.social_icons {
 }
 
 .map_section {
-	float: right;
+	float: left;
 	width: 35%;
 }
 
@@ -3709,7 +3709,7 @@ footer ul.social_icons {
 }
 
 .team_feature_social {
-	float: left;
+	float: right;
 	width: 100%;
 	justify-content: center;
 	display: flex;
@@ -3878,7 +3878,7 @@ footer ul.social_icons {
 }
 
 .share-post li {
-	float: left;
+	float: right;
 	margin: 0 0 0 20px;
 }
 
