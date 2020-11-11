@@ -3236,7 +3236,7 @@ footer h4 {
 }
 
 .footer_menu_ul {
-	float: left;
+	float: absolute;
 	width: 100%;
 	font-size: 14px;
 }
